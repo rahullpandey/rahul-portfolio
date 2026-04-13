@@ -6,11 +6,11 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am currently co-founder of CallHQ.ai, building real-time voice AI for
-          businesses. I am a technologist at heart with strong business judgment—
-          I enjoy going from product strategy to hands-on engineering. My background
-          spans leadership at Adobe, founding Broki and CallHQ, and shipping
-          full-stack products end to end.
+          I'm Rahul Pandey, a B.Tech (Computer Science) graduate from Lovely
+          Professional University (2022–2025) with a diploma from PIIT, Greater
+          Noida. I enjoy building web applications end-to-end, focusing on clean
+          UI, reliable APIs, and practical problem solving. I'm also exploring
+          AI/ML projects like explainable-AI work in healthcare.
         </p>
       </div>
     </div>
